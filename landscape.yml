@@ -1048,6 +1048,11 @@ landscape:
             homepage_url: http://www.szpclab.com/
             logo: pcl.svg
             crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory
+          - item:
+            name: BaiShanCloud
+            homepage_url: https://intl.baishancloud.com/
+            logo: baishancloud.svg
+            crunchbase: https://www.crunchbase.com/organization/baishancloud
   - category:
     name: Development
     subcategories:
