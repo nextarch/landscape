@@ -772,14 +772,6 @@ landscape:
             logo: aftership.svg
             crunchbase: https://www.crunchbase.com/organization/aftership
             project: collaborativeproject
-          - item:
-            name: Retail
-            homepage_url: https://nextarch.io/
-            logo: retail.svg
-            crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
-            organization:
-              name: Retail
-            project: collaborativeproject
       - subcategory:
         name: Automotive
         items:
@@ -788,20 +780,11 @@ landscape:
             project: collaborativeproject
             logo: automotive.svg
             organization:
-              name: automotive
+              name: Automotive
             homepage_url: https://nextarch.io/
-            crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
       - subcategory:
         name: Gaming
         items:
-          - item:
-            name: Gaming
-            logo: gaming.svg
-            organization:
-              name: Gaming
-            homepage_url: https://nextarch.io/
-            crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
-            project: collaborativeproject
           - item:
             name: Unity
             homepage_url: https://unity.com/
@@ -811,14 +794,6 @@ landscape:
       - subcategory:
         name: Healthcare
         items:
-          - item:
-            name: Healthcare
-            logo: healthcare.svg
-            organization:
-              name: Healthcare
-            homepage_url: https://nextarch.io/
-            crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
-            project: collaborativeproject
           - item:
             name: MedCreds
             homepage_url: https://www.proofmarket.io/medcreds
@@ -846,14 +821,6 @@ landscape:
       - subcategory:
         name: Media & Entertainment
         items:
-          - item:
-            name: Media & Entertainment
-            logo: media-entertainment.svg
-            organization:
-              name: Media and Entertainment
-            homepage_url: https://nextarch.io/
-            crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
-            project: collaborativeproject
           - item:
             name: SRS
             homepage_url: https://ossrs.net
@@ -901,7 +868,6 @@ landscape:
             organization:
               name: Telecommunications
             homepage_url: https://nextarch.io/
-            crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
             project: collaborativeproject
   - category:
     name: NextArch Foundation Collaborator
