@@ -486,6 +486,7 @@ landscape:
             repo_url: https://github.com/apache/kylin
             logo: kylin.svg
             crunchbase: https://www.crunchbase.com/organization/kylin
+            twitter: https://twitter.com/ApacheKylin
           - item:
             name: Apache Flink
             homepage_url: https://flink.apache.org/
@@ -890,6 +891,7 @@ landscape:
             repo_url: https://github.com/blender/blender
             logo: blender.svg
             crunchbase: https://www.crunchbase.com/organization/blender-org
+            twitter: https://twitter.com/blender
       - subcategory:
         name: Telecommunications
         items:
