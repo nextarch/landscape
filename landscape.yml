@@ -835,7 +835,6 @@ landscape:
             homepage_url: https://ffmpeg.org/
             repo_url: https://github.com/FFmpeg/FFmpeg
             logo: ffmpeg.svg
-            crunchbase: https://www.crunchbase.com/organization/ffmpeg
             twitter: https://twitter.com/FFmpeg
             organization:
               name: ffmpeg
