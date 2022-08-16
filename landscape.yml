@@ -971,7 +971,8 @@ landscape:
             name: DiDi
             homepage_url: https://www.didiglobal.com
             logo: didi.svg
-            crunchbase: https://www.crunchbase.com/organization/didi-dache
+            organization:
+              name: DiDi
           - item:
             name: GrowingIO
             homepage_url: https://www.growingio.com
