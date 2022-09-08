@@ -1045,7 +1045,7 @@ landscape:
           - item:
             name: Tap Data
             homepage_url: https://tapdata.net
-            logo: tapdata.svg
+            logo: Tapdata.svg
             organization:
               name: tapdata
           - item:
