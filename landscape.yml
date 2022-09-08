@@ -1103,19 +1103,14 @@ landscape:
             name: ThunderSoft
             homepage_url: https://www.thundersoft.com/
             logo: thunder-soft.svg
-            crunchbase: https://www.crunchbase.com/organization/thundersoft-company-limited
+            organization:
+              name: thundersoft
           - item:
             name: E7 Research
             homepage_url: https://www.e7research.com/
             logo: e7research.svg
             organization:
               name: e7research
-          - item:
-            name: Whale Ops
-            homepage_url: https://dolphinscheduler.apache.org/
-            logo: whaleops.svg
-            organization:
-              name: whaleops
           - item:
             name: Thought Works
             homepage_url: https://www.thoughtworks.com/
@@ -1125,7 +1120,8 @@ landscape:
             name: Cloud To Go
             homepage_url: https://www.cloudtogo.cn/
             logo: cloudtogo.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-to-go
+            organization:
+              name: cloud-to-go
           - item:
             name: Hummer Cloud
             homepage_url: https://www.hummercloud.com
