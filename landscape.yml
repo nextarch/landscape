@@ -1021,6 +1021,64 @@ landscape:
             homepage_url: https://intl.baishancloud.com/
             logo: baishancloud.svg
             crunchbase: https://www.crunchbase.com/organization/baishancloud
+          - item:
+            name: Digital China
+            homepage_url: https://www.digitalchina.com/
+            logo: digital-china.svg
+            crunchbase: https://www.crunchbase.com/organization/digital-china-group
+          - item:
+            name: Eolink
+            homepage_url: https://www.eolink.com/
+            logo: eolink.svg
+            crunchbase: https://www.crunchbase.com/organization/eolink
+          - item:
+            name: Data Canvas
+            homepage_url: https://datacanvas.io/
+            logo: data-canvas.svg
+            crunchbase: https://www.crunchbase.com/organization/datacanvas
+          - item:
+            name: HuoXian
+            homepage_url: https://www.huoxian.cn/
+            logo: huoxian.svg
+            organization:
+              name: Huoxian
+          - item:
+            name: Tap Data
+            homepage_url: https://tapdata.net
+            logo: tapdata.svg
+            organization:
+              name: tapdata
+          - item:
+            name: CNIC
+            homepage_url: http://www.cnic.cas.cn/
+            logo: cnic.svg
+            organization:
+              name: cnic
+          - item:
+            name: Easy Stack
+            homepage_url: https://www.easystack.cn/
+            logo: easystack.svg
+            crunchbase: https://www.crunchbase.com/organization/easystack
+          - item:
+            name: Cloud Wise
+            homepage_url: https://www.cloudwise.com/en/
+            logo: cloud-wise.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudwise
+          - item:
+            name: TAOS Data
+            homepage_url: https://www.taosdata.com/
+            logo: TDengine.svg
+            crunchbase: https://www.crunchbase.com/organization/taos-data
+          - item:
+            name: UWin
+            homepage_url: https://www.uwintech.cn/
+            logo: uwin-tech.svg
+            crunchbase: https://www.crunchbase.com/organization/uwintech
+          - item:
+            name: XSky
+            homepage_url: https://www.xsky.com/
+            logo: xsky.svg
+            crunchbase: https://www.crunchbase.com/organization/xsky-data-technology
   - category:
     name: Development
     subcategories:
