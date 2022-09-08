@@ -1079,6 +1079,59 @@ landscape:
             homepage_url: https://www.xsky.com/
             logo: xsky.svg
             crunchbase: https://www.crunchbase.com/organization/xsky-data-technology
+          - item:
+            name: YeePay
+            homepage_url: https://global.yeepay.com/index
+            logo: yeepay.svg
+            crunchbase: https://www.crunchbase.com/organization/yeepay
+          - item:
+            name: IDCOS
+            homepage_url: https://idcos.com/
+            logo: IDCOS.svg
+            crunchbase: https://www.crunchbase.com/organization/idcos
+          - item:
+            name: Second State
+            homepage_url: https://www.secondstate.io/
+            logo: second-state.svg
+            crunchbase: https://www.crunchbase.com/organization/second-state
+          - item:
+            name: JFrog
+            homepage_url: https://jfrog.com/
+            logo: jfrog.svg
+            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
+          - item:
+            name: ThunderSoft
+            homepage_url: https://www.thundersoft.com/
+            logo: thunder-soft.svg
+            crunchbase: https://www.crunchbase.com/organization/thundersoft-company-limited
+          - item:
+            name: E7 Research
+            homepage_url: https://www.e7research.com/
+            logo: e7research.svg
+            organization:
+              name: e7research
+          - item:
+            name: Whale Ops
+            homepage_url: https://dolphinscheduler.apache.org/
+            logo: whaleops.svg
+            organization:
+              name: whaleops
+          - item:
+            name: Thought Works
+            homepage_url: https://www.thoughtworks.com/
+            logo: thoughtworks.svg
+            crunchbase: https://www.crunchbase.com/organization/thoughtworks
+          - item:
+            name: Cloud To Go
+            homepage_url: https://www.cloudtogo.cn/
+            logo: cloudtogo.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-to-go
+          - item:
+            name: Hummer Cloud
+            homepage_url: https://www.hummercloud.com
+            logo: hummercloud.svg
+            organization:
+              name: hummercloud
   - category:
     name: Development
     subcategories:
