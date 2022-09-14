@@ -57,6 +57,7 @@ landscape:
             repo_url: https://github.com/Kindling-project/space-capsule
             logo: space-capsule.svg
             crunchbase: https://www.crunchbase.com/organization/harmony-cloud
+            homepage_url: https://github.com/Kindling-project/space-capsule
   - category:
     name: Infrastructure
     subcategories:
