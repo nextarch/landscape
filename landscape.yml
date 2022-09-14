@@ -259,13 +259,6 @@ landscape:
             repo_url: https://github.com/openvswitch/ovs
             logo: vswitch.svg
             crunchbase: https://www.crunchbase.com/organization/open-vswitch
-          - item:
-            name: Parasaus
-            project: foundationproject
-            repo_url: https://github.com/Dinosaur-Park/heyelb
-            logo: parasaus.svg
-            organization:
-              name: Parasaus
       - subcategory:
         name: Storage
         items:
@@ -773,6 +766,14 @@ landscape:
             logo: kong.svg
             crunchbase: https://www.crunchbase.com/organization/konghq
             project: collaborativeproject
+          - item:
+            name: Parasaus
+            homepage_url: https://github.com/Dinosaur-Park/heyelb
+            project: foundationproject
+            repo_url: https://github.com/Dinosaur-Park/heyelb
+            logo: parasaus.svg
+            organization:
+              name: Parasaus
   - category:
     name: Industry
     subcategories:
